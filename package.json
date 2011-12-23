@@ -1,0 +1,19 @@
+{
+  "author": "KOBA789 <kobahide789@gmail.com> (http://koba789.com/)",
+  "name": "oauth-revenge",
+  "description": "Sexy OAuth 1.0 Client Module",
+  "version": "0.0.1",
+  "homepage": "http://koba789.com/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KOBA789/oauth-revenge.git"
+  },
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">=0.6"
+  },
+  "dependencies": {
+    "node-uuid": "*"
+  },
+  "devDependencies": {}
+}
