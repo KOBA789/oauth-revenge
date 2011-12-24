@@ -8,7 +8,7 @@ Specs
 
 * HTTPS Support
 * Twitter Streaming API Support
-* APIs are like `http` module of Node.js
+* Following Node.js idioms
 
 How to Use
 -------------------------
