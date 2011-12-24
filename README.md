@@ -6,9 +6,9 @@ An OAuth 1.0 Client Module for Node.js
 Specs
 -------------------------
 
-*HTTPS Support
-*Twitter Streaming API Support
-*APIs are like `http` module of Node.js
+* HTTPS Support
+* Twitter Streaming API Support
+* APIs are like `http` module of Node.js
 
 How to Use
 -------------------------
