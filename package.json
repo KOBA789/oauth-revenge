@@ -15,5 +15,8 @@
   "dependencies": {
     "node-uuid": "*"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "should": "*"
+    "mocha": "*"
+  }
 }
