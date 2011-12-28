@@ -26,7 +26,7 @@ How to Use
     };
 
     var signer = oauth.createHmac(consumer, token);
-    var client = oauth.createClinet(signer);
+    var client = oauth.createClient(signer);
 
     var url = 'https://api.twitter.com/1/statuses/update.json';
     var query = {
