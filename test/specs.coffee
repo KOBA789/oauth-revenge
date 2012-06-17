@@ -11,6 +11,7 @@ describe 'HMAC', ->
   reqObj = new RequestObject 'POST', 'https://api.twitter.com/1/statuses/update.json', status: '日本語ツイート'
   hmac.setRequestObject reqObj
 
+
   describe '#_genSignBase', ->
     baseQuery = hmac._genSignBaseQuery()
     baseStr = hmac._genSignBase baseQuery
